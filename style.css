@@ -132,3 +132,9 @@ div.header.col-md-12{
     background-color: #fff;
     margin: 0;
 }
+li.headerlist1 a{
+    text-align: right;
+}
+li.headerlist3 a{
+    text-align: left;
+}
