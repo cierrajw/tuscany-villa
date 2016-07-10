@@ -1,0 +1,130 @@
+﻿body {
+    background-color: #CACDCB;
+    text-align: center;
+    color: #666666;
+}
+div.menu{
+    background-color: #fff;
+    height: 40px;
+    width: 100%;   
+}
+.headersub{
+    font-style: italic;
+}
+.footer.col-md-12{
+    background-color: #e7e0e9;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+.c1r1{
+    background-image: url("http://www.travelbestbets.com/wp-content/uploads/2015/01/AUTH-Italy-Rome-Colosseum.jpg");
+}
+.c2r1{
+    background-image: url("http://www.herecomestheguide.com/images/area_images/TuscanyVilla01.jpg");
+}
+.c3r1{
+    background-image: url("https://www.smu.edu/-/media/Site/international/abroad/Programs/SMU-in-Italy/Photos-Page/SMU_Italy_Friends3.ashx?la=en&hash=12F719E8E6953FC90C92E02CFE9F2A6F1573AC9D");
+}
+.c4r1{
+    background-image: url("http://www.russ-phillips.com/wp-content/uploads/2015/05/24334.jpg");
+}
+.c1r2{
+    background-image: url("http://www.chebellatours.com/uploads/4/5/8/1/45814051/4503205.jpg");
+}
+.c2r2{
+    background-image: url("http://accommodations.tuscanyall.com/propertyPhotos/zobi-h.jpg");
+}
+.c3r2{
+    background-image: url("http://www.sopranovillas.com/wp-content/uploads/camaiore-villa-02-400x300.jpg");
+}
+.c4r2{
+    background-image: url("http://accommodations.tuscanyall.com/propertyPhotos/rossa-h.jpg");
+}
+.c1r3{
+    background-image: url("https://imagesus-ssl.homeaway.com/mda01/df0d1bbf-e426-4479-bf08-b4fabdfd4ab4.1.6");
+}
+.c2r3{
+    background-image: url("http://www.onlinetravelmagazines.com/wp-content/uploads/2013/05/TUFI089a.jpg");
+}
+.c3r3{
+    background-image: url("rosa.jpg");
+}
+.c4r3{
+    background-image: url("http://www.herecomestheguide.com/images/area_images/TuscanyVilla03.jpg")
+}
+.row{
+    border: 1px solid #cbcecc;
+}
+.col-sm-3{
+    height: 200px;
+    border: 1px solid #cbcecc;
+}
+.topleft.col-sm-9{
+    background-image: url("http://www.redsavannah.com/media/23137/tuscany-villas-sant-anna.jpg");
+    background-size: cover;
+    height: 500px;
+    border: 1px solid #cbcecc;
+}
+.topright{
+    background-image: url("https://www.italianview.com/foto_villas/TC506d.jpg");
+    background-size: cover;
+    height: 500px;
+}
+h4{
+    width: 100%;
+    height: 50px;
+    margin: 0;
+}
+a.btn.btn-lg.btn-success{
+ 
+    margin: 60px 60px;
+    background-color: #444444;
+    opacity: 0.7;
+    /*background: rgba(255, 255, 255, 0.5);*/
+    color: #fff;
+    border-radius: unset;
+    height: 60px;
+    width: 150px;
+}
+.glyphicon.glyphicon-search{
+    color: blue;
+    font-size: large;
+    margin-right: 5px;
+    margin-left: 1px;
+
+}
+.container-fluid {
+    padding-right: 0;
+    padding-left: 0;
+}
+.page-header {
+  padding-bottom: 3px;
+  margin: 40px 0 20px;
+  border-bottom: none;
+}
+.btn.btn-lg.btn-success.topleftbutton{
+    margin: 265px 100px;
+    background-color: #444444;
+    opacity: 0.7;
+    color: #fff;
+    border-radius: unset;
+    height: 60px;
+    width: 500px;
+}
+.btn.btn-lg.btn-success.toprightbutton{
+    margin: 265px 65px;
+    background-color: #fff;
+    opacity: 0.9;
+    /*background: rgba(255, 255, 255, 0.5);*/
+    color: #444444;
+    border-radius: unset;
+    height: 60px;
+    width: 200px;
+
+}
+div.header.col-md-12{
+    margin: 0;
+}
+.subheadline{
+    font-size: small;
+}
