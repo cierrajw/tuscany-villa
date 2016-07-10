@@ -128,3 +128,7 @@ div.header.col-md-12{
 .subheadline{
     font-size: small;
 }
+.nav.nav-justified{
+    background-color: #fff;
+    margin: 0;
+}
