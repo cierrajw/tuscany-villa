@@ -152,9 +152,10 @@ li.headerlist1.topbutton1 a{
     width: 100px;
 }
 div.footer.col-md-12{
-    margin-bottom: 50px;
+    margin-bottom: 40px;
+    font-size: small;
 }
 h3{
     margin-top: 0;
-    padding: 20px;
+    padding: 13px;
 }
