@@ -79,6 +79,7 @@ a.btn.btn-lg.btn-success{
  
     margin: 60px 60px;
     background-color: #444444;
+    border-color: #e7e0e9;
     opacity: 0.7;
     /*background: rgba(255, 255, 255, 0.5);*/
     color: #fff;
@@ -105,6 +106,7 @@ a.btn.btn-lg.btn-success{
 .btn.btn-lg.btn-success.topleftbutton{
     margin: 265px 100px;
     background-color: #444444;
+    border-color: #e7e0e9;
     opacity: 0.7;
     color: #fff;
     border-radius: unset;
@@ -114,6 +116,7 @@ a.btn.btn-lg.btn-success{
 .btn.btn-lg.btn-success.toprightbutton{
     margin: 265px 65px;
     background-color: #fff;
+    border-color: #cbcecc;
     opacity: 0.9;
     /*background: rgba(255, 255, 255, 0.5);*/
     color: #444444;
@@ -137,4 +140,21 @@ li.headerlist1 a{
 }
 li.headerlist3 a{
     text-align: left;
+}
+li.headerlist1.topbutton1 a{
+    margin: 265px 65px;
+    background-color: #fff;
+    opacity: 0.9;
+    /*background: rgba(255, 255, 255, 0.5);*/
+    color: #444444;
+    border-radius: unset;
+    height: 60px;
+    width: 100px;
+}
+div.footer.col-md-12{
+    margin-bottom: 50px;
+}
+h3{
+    margin-top: 0;
+    padding: 20px;
 }
